@@ -1,0 +1,25 @@
+# Core framework
+streamlit
+
+# Web scraping
+requests
+beautifulsoup4
+pypdf
+httpx
+
+# Toxicity detection (offline)
+detoxify
+torch
+transformers
+sentencepiece
+
+# LLM APIs
+openai
+anthropic
+
+# Environment management
+python-dotenv
+
+# Utilities
+lxml
+pandas
