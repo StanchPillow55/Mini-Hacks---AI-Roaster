@@ -31,6 +31,7 @@ st.markdown("""
         padding: 20px;
         border-radius: 10px;
         background-color: #f0f2f6;
+        color: #000000;
         margin: 10px 0;
         font-size: 18px;
         line-height: 1.6;
